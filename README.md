@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shama-jain
 - 👀 I’m interested in software
 - 🌱 I’m currently learning computer science
-- 💞️ I'll be very greatfull to help you.....
+- 💞️ I'll be very greatfull to help you...
 - 📫 u can reach me through hshamajain@gmail.com
 
 <!---
